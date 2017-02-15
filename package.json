@@ -316,6 +316,7 @@
     "test": "make test"
   },
   "dependencies": {
+    "browser-stdout": "^1.2.0",
     "commander": "2.3.0",
     "debug": "2.2.0",
     "diff": "1.4.0",
@@ -328,7 +329,6 @@
     "to-iso-string": "0.0.2"
   },
   "devDependencies": {
-    "browser-stdout": "^1.2.0",
     "browserify": "^13.0.0",
     "coffee-script": "~1.8.0",
     "eslint": "^1.2.1",
