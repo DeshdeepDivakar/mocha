@@ -350,6 +350,7 @@
     "images",
     "lib",
     "index.js",
+    "browser-entry.js",
     "mocha.css",
     "mocha.js",
     "LICENSE"
